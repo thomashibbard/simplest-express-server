@@ -1,3 +1,3 @@
 ```
-pm2 start server.js
+$ yarn start
 ```

@@ -4,6 +4,9 @@
   "main": "server.js",
   "author": "NI",
   "license": "MIT",
+  "scripts": {
+    "start": "node server"
+  },
   "dependencies": {
     "express": "^4.15.3",
     "path": "^0.12.7"
