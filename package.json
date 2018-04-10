@@ -1,5 +1,5 @@
 {
-  "name": "pm2-test",
+  "name": "simplest-express-server",
   "version": "0.0.1",
   "main": "server.js",
   "author": "NI",
