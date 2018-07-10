@@ -5,10 +5,13 @@
   "author": "NI",
   "license": "MIT",
   "scripts": {
-    "start": "node server"
+    "start": "nodemon server"
   },
   "dependencies": {
-    "express": "^4.15.3"
+    "circular-json": "^0.5.5",
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "nodemon": "^1.17.5"
   },
   "devDependencies": {}
 }
