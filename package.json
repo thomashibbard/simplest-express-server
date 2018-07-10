@@ -1,11 +1,12 @@
 {
-  "name": "simplest-express-server",
+  "name": "dynamic host names test",
   "version": "0.0.1",
   "main": "server.js",
   "author": "NI",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon server"
+    "watch": "nodemon server",
+    "start": "node server"
   },
   "dependencies": {
     "circular-json": "^0.5.5",
